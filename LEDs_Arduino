@@ -1,11 +1,11 @@
 #include <FastLED.h>
 
-#define NUM_LEDS 4
+#define NUM_LEDS 88
 #define LED_PIN 6
 #define ANALOG_READ 0
 
 #define MIC_LOW 0.0
-#define MIC_HIGH 737.0
+#define MIC_HIGH 1024
 
 #define AVGLEN 5
 #define LONG_SECTOR 20
